@@ -2,18 +2,13 @@ import React from 'react';
 import {View, Text,StyleSheet} from 'react-native';
 
 
-export default Loguin = () =>{
+export default UsuarioLogueado = () =>{
   return(
     <View >
       <Text>
-        soy Loguin
+        soy Usuario Logueado
       </Text>
     </View>
   )
 }
 
-// const styles = StyleSheet.create({
-//   containerLoguin:{
-
-//   }
-// })
