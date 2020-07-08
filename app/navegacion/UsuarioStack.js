@@ -18,7 +18,7 @@ export default UsuarioStack = ()=>{
       <Stack.Screen
         name="Loguin"
         component={Loguin}
-        options={{title:"LOGUIN"}}
+        options={{title:"INICIAR SESIÓN"}}
       />
        <Stack.Screen
         name="NewUsuario"
